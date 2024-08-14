@@ -28,7 +28,7 @@ public class Main {
 //        System.out.println(num+num2);
 
 
-//        //while loop(basics) if we dont know how many times the loop should run use  while OR use for loop
+//        //while loop(basics) if we don't know how many times the loop should run use  while OR use for loop
 //        int count = 0;
 //        while(count!= 5){
 //            System.out.println(count);
@@ -42,15 +42,15 @@ public class Main {
 //       }
 //
 //
-//       //for loop(basics) use you know how many time the loop should run
+//       //for loop(basics) use you know how many times the loop should run
 //          for(int cou = 0;cou != 5; cou++){
 //              System.out.println(cou);
 //          }
 
-        Scanner sc = new Scanner(System.in);
-        float tempC = sc.nextFloat();
-        float tempF = (tempC*9/5)+32;
-        System.out.println(tempF);
+//        Scanner sc = new Scanner(System.in);
+//        float tempC = sc.nextFloat();
+//        float tempF = (tempC*9/5)+32;
+//        System.out.println(tempF);
 
     }
 }
