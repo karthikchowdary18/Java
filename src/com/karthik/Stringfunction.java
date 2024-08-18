@@ -6,7 +6,6 @@ public class Stringfunction {
         System.out.println(wish);
     }
     static  String greeting(){
-        String greet = "Hi Karthik";
-        return greet;
+        return "Hi Karthik";
     }
 }
