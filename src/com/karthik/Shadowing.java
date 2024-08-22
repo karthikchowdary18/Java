@@ -6,7 +6,7 @@ public class Shadowing {
         System.out.println(x); // here it will print 100
         int x =30;
         System.out.println(x); // here the previous x will be shadowed
-        game(); //  it will go into the method and print 90
+        game(); //  it will go into the method and print 100
     }
 
     static void game(){
